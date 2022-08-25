@@ -1,2 +1,3 @@
 # AaltoUniv-Fall2018-VehicleMechatronics-FinalProject
-Files related to the final project of the Vehicle Mechatronics course at Aalto University are kept here.
+
+I am keeping here all the files of the final project I worked on for the course Vehicle Mechatronics during the Fall 2018 semester at Aalto University.
